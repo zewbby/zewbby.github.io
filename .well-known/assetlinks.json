@@ -22,5 +22,17 @@
         "FD:26:B2:76:CB:17:0B:F0:84:A9:32:D3:B3:91:9B:D3:AA:44:87:43:95:80:99:68:BD:D7:4D:DA:B8:73:89:DC"
       ]
     }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.get_login_creds"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "org.hnuhole.hnuhole_mobile.acceptance20261012",
+      "sha256_cert_fingerprints": [
+        "6F:1F:A8:F9:7A:7A:68:E0:E1:3A:0A:95:73:31:07:39:83:A1:9A:79:35:3C:DD:5A:54:AA:8B:09:6A:51:AA:03"
+      ]
+    }
   }
 ]
